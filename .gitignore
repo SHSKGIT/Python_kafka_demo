@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+*.log
+
+# dotenv
+.env
+
+.DS_Store
+*.pyc
+
+id_rsa
+id_rsa.pub
