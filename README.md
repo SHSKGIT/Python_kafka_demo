@@ -7,3 +7,5 @@ execute consumer script, so the consumer is waiting to get messages once produce
 
 execute producer script, producer publishes messages once per second. In the video, consumer gets messages immediately once per second.
 
+(Video can either be downloaded from this repo or accessed by https://youtu.be/vMkvkdMnaLY)
+
